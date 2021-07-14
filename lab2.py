@@ -15,12 +15,6 @@ If working in groups, feel free to check your answers with your classmates. Howe
 '''
 TO DO: Answer the short answer questions. When you're done with the short answer questions, check your answers with your classmates and/or the CAs.
 
-0. Please help me get to know you all.  For all of the members in your group, please write each group member's name & where they are from / located below:
-EXAMPLE: Ashley Suh - Somerville, MA
-ANSWER: Isaac Chompsky - Nashville, Tenessee 
-        Parla Tellioglu - Turkey
-        Steve Han - Toronto Canada
-
 1. Type in 'not True', without the apostrophes, into the shell. What does the output say?
 ANSWER: False
 
