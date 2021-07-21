@@ -126,7 +126,7 @@ if guess == secretNumber:
 
 "Your guess is too low! The correct answer was 4."
 
-When the user guesses the correct number, the program should not tell the user what the correct answer was, as they already know!'''
+When the user guesses the correct number, the program should not tell the user what the correct answer was, as they already know! '''
 
 
 ''' TO DO: Once you have finished updating your code, answer the following question: 
