@@ -1,4 +1,4 @@
-# Name:        James
+# Name:        James 
 # Program:     RPS
 
 import random
