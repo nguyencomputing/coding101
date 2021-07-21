@@ -9,7 +9,7 @@ Lab #1: Python Basics pt.1
 ''' TO DO: Answer the short answer questions.
 
 1. Type in 'type(5)', without the apostrophes, into the shell. What does the output say?
-ANSWER: <class 'int'>
+ANSWER: <class 'int'> 
 
 2. Type in 'type(3.14)', without the apostrophes, into the shell. What does the output say?
 ANSWER: <class 'float'>
