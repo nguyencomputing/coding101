@@ -8,7 +8,7 @@ Due:      7/15/21 10:30AM EST
 ##################################################################
 # Begin part 1 of Lab 3
 # To answer the questions for part 1, you may need to run 
-# code that uses if-statements or while loops in the Python shell. 
+# code that uses if-statements or while loops in the Python shell.  
 # Note that when you try typing in code that requires multiple 
 # lines, like while loops, the shell will do the following
 # when you type in a while loop, like so: 
